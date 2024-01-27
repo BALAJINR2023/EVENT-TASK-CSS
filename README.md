@@ -1,0 +1,2 @@
+SAMPLE REPLECA OF IMAGE:
+![image](https://github.com/BALAJINR2023/EVENT-TASK-CSS/assets/151283720/812a4abb-fc09-470d-8e1c-83426b10da2b)
